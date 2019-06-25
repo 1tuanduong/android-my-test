@@ -42,7 +42,7 @@ public class DB extends SQLiteOpenHelper {
                 KEYWORDS_POSITION +" integer primary key, "+
                 OBJECT_NAME + " TEXT)";
         db.execSQL(sqlQuery);
-        Toast.makeText(context, "Create successfylly", Toast.LENGTH_SHORT).show();
+        //Toast.makeText(context, "Database saved", Toast.LENGTH_SHORT).show();
 
     }
 
@@ -50,7 +50,7 @@ public class DB extends SQLiteOpenHelper {
     public void onUpgrade(SQLiteDatabase db, int i, int i1) {
         db.execSQL("DROP TABLE IF EXISTS "+TABLE_KEYWORDS);
         onCreate(db);
-        Toast.makeText(context, "Drop successfylly", Toast.LENGTH_SHORT).show();
+        //Toast.makeText(context, "Database dropped", Toast.LENGTH_SHORT).show();
 
     }
 
