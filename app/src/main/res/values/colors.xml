@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="xiaomi">#009688</color>
+    <color name="bitis_hunter">#FFFFFF</color>
+    <color name="bts">#32B437</color>
+    <color name="balo">#9C27B0</color>
+    <color name="bitis_hunter_x">#38B8C9</color>
+    <color name="tai_nghe">#D19031</color>
+    <color name="harry_potter">#C48B38</color>
+    <color name="anker">#FFFFFF</color>
+
+    <color name="iphone">#E9D733</color>
+    <color name="balo_nu">#E9D733</color>
+    <color name="nguyen_nhat_anh">#E9D733</color>
+    <color name="đac_nhan_tam">#C71717</color>
+    <color name="ipad">#E9D733</color>
+    <color name="senka">#E9D733</color>
+    <color name="tai_nghe_bluetooth">#9C27B0</color>
+    <color name="son">#E9D733</color>
+
+    <color name="maybelline">#E9D733</color>
+    <color name="laneige">#E9D733</color>
+    <color name="kem_chong_nang">#E9D733</color>
+    <color name="anh_chinh_la_thanh_xuan_cua_em">#E9D733</color>
+
+
+</resources>
